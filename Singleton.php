@@ -11,9 +11,9 @@ class Singleton
     private static $instance;
 
     /**
-     * Возвращает экземляр объекта данного класса.
+     * Возвращает экземляр объекта данного класса
      *
-     * @return Singleton Объект данного класса.
+     * @return Singleton Объект данного класса
      */
     public static function getInstance()
     {
